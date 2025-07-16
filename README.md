@@ -24,6 +24,14 @@ Features
 - Clean and interactive Jupyter Notebook interface
 - Preprocessed similarity matrix for faster results
 - Easy-to-run and modify
+  Screenshots
+
+Movie Input Page
+![Screenshot 1](demo.png)
+
+
+Top 5 Recommendations Shown
+![Screenshot 2](demo1.png)
 
  How to Run
 
